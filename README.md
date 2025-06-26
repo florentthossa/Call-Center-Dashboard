@@ -9,6 +9,9 @@ Key breakdowns include:
 
  
  ✅    Performance per channel (Email, Chatbot, Web, Call Center)
+ 
  ✅   Reasons for calls, showing main customer concerns (e.g., billing, upgrade, payment)
+ 
  ✅   Regional analysis via map and call distribution per city
+ 
  ✅  Mini sparklines and duration metrics for real-time trend comparison
